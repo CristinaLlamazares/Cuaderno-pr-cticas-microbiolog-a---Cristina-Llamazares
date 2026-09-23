@@ -119,14 +119,14 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 
 ## 6. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja o equipo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Simulación con material limpio / material real con autorización / actividad documental / otra; descríbela]
-- **Tipo de muestra o simulante utilizado:** [Describe el material seguro; no incluyas datos personales ni identificadores clínicos]
-- **Código o identificación de la muestra:** [Completa sin datos personales]
+- **Nombre y apellidos:** Cristina Llamazares Santiago
+- **Fecha real de realización:** 23/09/2026
+- **Grupo:** 2º LCB
+- **Pareja o equipo, si procede:** Individual
+- **Rol o tarea principal que realizaste:** Técnico de laboratorio
+- **Modalidad realmente realizada:** Simulación con material limpio
+- **Tipo de muestra o simulante utilizado:** Agua estancada
+- **Código o identificación de la muestra:** Sin código
 
 ## 7. Preparación del puesto y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -134,25 +134,25 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 
 Describe brevemente cómo estaba organizado el puesto, qué señalización observaste y qué elementos consideraste relevantes para trabajar con seguridad.
 
-[Escribe aquí tu observación inicial.]
+En primer lugar, el laboratorio en el que trabajamos no dispone de una zona señalizada para la recepción de muestras. Sobre una mesa genérica  he preparado una bandeja para simular la recepción de la muestra y el derrame de ésta. Para ello he utilizando los EPIS adecuados. 
 
 ### 7.2 Riesgos identificados
 
 | Riesgo o fuente de contaminación | Consecuencia posible | Medida preventiva seleccionada |
 |---|---|---|
-| [Completa] | [Completa] | [Completa] |
-| [Completa] | [Completa] | [Completa] |
-| [Completa] | [Completa] | [Completa] |
+| No existe zona específica de recepción de muestras | Confusión y pérdida de muestras | Poner una mesa exclusiva para recibir las muestras en la entrada |
+| No existe un protocolo específico | [Completa] | [Completa] |
+| Se trabaja en una mesa genérica donde hay muchos elementos | La falta de espacio y el desorden provocan caídas de objetos, derrames y roturas de materiales | Mantener sobre la mesa únicamente el material indispensable y ordenar el espacio |
 
 ### 7.3 EPI y barreras seleccionados
 
 | Elemento | ¿Se utilizó? | Justificación técnica |
 |---|---|---|
-| Bata u otra prenda de protección | [Sí / No / No aplicaba] | [Completa] |
-| Guantes | [Sí / No / No aplicaba] | [Completa] |
-| Protección ocular o facial | [Sí / No / No aplicaba] | [Completa] |
-| Higiene de manos | [Describe cuándo y cómo] | [Completa] |
-| Otra barrera o medida | [Completa] | [Completa] |
+| Bata u otra prenda de protección | Sí | Elemento de protección básico |
+| Guantes | Sí | Elemento de protección básico |
+| Protección ocular o facial | No | No se requiere |
+| Higiene de manos | Antes de iniciar la práctica y una vez finalizada | Es imprescindible para evitar posibles contaminaciones |
+| Otra barrera o medida | Ninguna otra barrera | No se requiere |
 
 ## 9. Controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -160,8 +160,8 @@ Describe brevemente cómo estaba organizado el puesto, qué señalización obser
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Zona y señalización analizadas | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Recepción e identificación trazables | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Zona y señalización analizadas | Se observa que no existe zona de recepción de muestras | No | Debería existir una zona de recepción correctamente señalizada |
+| Recepción e identificación trazables | Se observa que no existe documento de registro y trazabilidad de las muestras | No | Debería existir |
 | Derrame contenido y descontaminado | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Residuos procesados y eliminados correctamente | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Registro y comunicación final | [Completa] | [Sí / No / Parcialmente] | [Completa] |
