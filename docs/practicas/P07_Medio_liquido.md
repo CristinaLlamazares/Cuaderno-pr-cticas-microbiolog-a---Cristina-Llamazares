@@ -131,7 +131,7 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | papel de filtro, cucharilla, papel de aluminio, gradilla, 6 tubos de vidrio, 6 tapones,  vaso de precitado, pipeta y pera. |
+| Instrumental | Papel de filtro, cucharilla, papel de aluminio, gradilla, 6 tubos de vidrio, 6 tapones,  vaso de precitado, pipeta y pera. |
 | Equipos | Microondas, balanza y autoclave |
 | Reactivos/materiales | Agua destilada y caldo BHI |
 
@@ -149,9 +149,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Copia la dosis del BHI y su fuente; calcula la masa para 50 mL, registra la masa pesada y comprueba 6 × 8 = 48 mL y el margen de 2 mL] |
-| Configuración de equipos (si procede) | [Identifica balanza y material de dispensación; registra autoclave, ciclo, temperatura, tiempo y controles reales, o indica qué procede de demostración/documentación] |
-| Características del producto o resultado final | [Indica número de tubos, volumen dispensado por tubo, aspecto del BHI, integridad y etiquetas; sobrante/pérdidas observados, origen de la evidencia y estado de los controles] |
+| Cálculos (si procede) | Dosis: 37g/L de BHI. Volumen a preparar: 50 mL. Cálculo:(37g x 50 mL)/1000mL = 1,85g . Masa teórica: 1,85g. Masa realmente pesada: g .Comprobación del volumen: 6 x 8 = 48mL. Margen:50-480 = 2 mL. |
+| Configuración de equipos (si procede) | Marca de la balanza: Pocket Scale. Material de dispensación: pipeta y cucharilla. Marca autoclave: PRESOCLAVE III PLUS.  Ciclo 4. Temperatura: 121º. Tiempo: 15 minutos. Controles reales: resgistro del autoclave y aspecto organoléptico. |
+| Características del producto o resultado final | 6 tubos. 8 ml de la mezcla en cada tubo. Líquido de color amarillento. Control organoléptico cuando los tubos salgan del autoclave, debemos comprobar el aspecto, el color y que no haya perdido volumen. |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
