@@ -114,13 +114,13 @@ Etiqueta/ficha del BHI → cálculo para 50 mL → pesada y reconstitución con 
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Equipo de trabajo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Preparación completa supervisada / preparación sin autoclave / demostración de esterilización / análisis documental / otra; descríbela]
-- **Medio preparado:** Caldo BHI; [indica fabricante, referencia y lote]
+- **Nombre y apellidos:** Cristina Llamazares Santiago
+- **Fecha real de realización:** 07/10/2026
+- **Grupo:** 2º LCB
+- **Equipo de trabajo, si procede:** Natalia, Diana, Pablo y Cristina
+- **Rol o tarea principal que realizaste:** He preparado el material necesario sobre el papel de filtro. Después, he pesado el caldo BHI en la balanza utilizando papel de aluminio. He pipeteado la mezcla de caldo BHI con agua destilada
+- **Modalidad realmente realizada:** Preparación completa supervisada
+- **Medio preparado:** Caldo BHI; Fabricante: laboratorio conda S.A. Lote:608301. Referencia: No tiene
 - **Preparación prevista por grupo:** 50 mL según la etiqueta/ficha; seis tubos de 8 mL antes de esterilizar.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -131,13 +131,15 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Instrumental | papel de filtro, cucharilla, papel de aluminio, gradilla, 6 tubos de vidrio, 6 tapones,  vaso de precitado, pipeta y pera. |
+| Equipos | Microondas, balanza y autoclave |
+| Reactivos/materiales | Agua destilada y caldo BHI |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Papel de filtro y papel de aluminio | Urbanos o asimilables a los urbanos |
+| Caldo BHI sobrante | Biológicos o infecciosos |
+
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
