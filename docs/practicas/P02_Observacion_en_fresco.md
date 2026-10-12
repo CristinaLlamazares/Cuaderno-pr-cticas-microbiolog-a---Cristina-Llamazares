@@ -132,7 +132,7 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 - **Fecha real de realización:** 24/09/2026
 - **Grupo:** 2º LCB
 - **Pareja de trabajo, si procede:** Individual
-- **Rol o tarea principal que realizaste:** Depositar una gota de agua estancada sobre un portaobjetos con ayuda de una pipeta Pasteur, colocar el cubreobjetos y observar la muestra al microscopio.
+- **Rol o tarea principal que realizaste:** Depositar una gota de agua estancada sobre un portaobjetos con ayuda de una pipeta Pasteur, colocar el cubreobjetos y observar la muestra al microscopio. Centrifugar la muestra, con una pipeta Pasteur coger el sedimento y depositar una gota en un portaobjetos, colocar el cubreobjetos y visualizar la muestra al microscopio.
 - **Modalidad realmente realizada:** Muestra ambiental autorizada
 - **Código o descripción de la muestra/material docente:** Sin código
 
