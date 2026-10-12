@@ -141,7 +141,7 @@ En primer lugar, el laboratorio en el que trabajamos no dispone de una zona señ
 | Riesgo o fuente de contaminación | Consecuencia posible | Medida preventiva seleccionada |
 |---|---|---|
 | No existe zona específica de recepción de muestras | Confusión y pérdida de muestras | Poner una mesa exclusiva para recibir las muestras en la entrada |
-| No existe un protocolo específico | [Completa] | [Completa] |
+| No existe un protocolo específico | Actuaciones incorrectas y respuesta inadecuada ante incidencias | Elaborar un PNT con instrucciones claras para la recepción de muestras y la actuación ante derrames |
 | Se trabaja en una mesa genérica donde hay muchos elementos | La falta de espacio y el desorden provocan caídas de objetos, derrames y roturas de materiales | Mantener sobre la mesa únicamente el material indispensable y ordenar el espacio |
 
 ### 7.3 EPI y barreras seleccionados
@@ -162,15 +162,15 @@ En primer lugar, el laboratorio en el que trabajamos no dispone de una zona señ
 |---|---|---|---|
 | Zona y señalización analizadas | Se observa que no existe zona de recepción de muestras | No | Debería existir una zona de recepción correctamente señalizada |
 | Recepción e identificación trazables | Se observa que no existe documento de registro y trazabilidad de las muestras | No | Debería existir |
-| Derrame contenido y descontaminado | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Residuos procesados y eliminados correctamente | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Registro y comunicación final | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Derrame contenido y descontaminado | Se simuló un derrame de agua estancada dentro de una bandeja de contención | Sí | Se realizó la actuación siguiendo las instrucciones establecidas para la simulación del derrame. |
+| Residuos procesados y eliminados correctamente | El agua se guardó para realizar las prácticas 2 y 3. El papel absorbente y el papel de filtro se depositaron en la basura genérica | Sí | Se siguieron las indicaciones del profesor para la eliminación de los residuos generados durante la simulación. |
+| Registro y comunicación final | Se anotaron las deficiencias detectadas en la zona de recepción | Sí | Se identificaron algunos riesgos |
 
 ### 9.2 Resultado principal de la práctica
 
 Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepción, aceptar o aislar una muestra, responder a un derrame, gestionar residuos y documentar una actuación segura.
 
-[Escribe aquí el resultado principal.]
+   La práctica permitió identificar deficiencias en el laboratorio, como la falta de una zona específica para recibir las muestras. Se simuló la recepción de agua estancada y un derrame, que se absorbió con papel absorbente siguiendo el procedimiento indicado por el profesor.  Los residuos se depositaron en el recipiente correspondiente. Se comprobó la importancia de utilizar EPI, mantener la zona de trabajo ordenada y aplicar correctamente las medidas de bioseguridad.
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -220,19 +220,21 @@ Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepc
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias | No aplicable | No fue necesario aplicar medidas correctoras | No |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta los resultados de la práctica. Relaciona el análisis de la zona, la recepción de la muestra, el EPI seleccionado, la respuesta al derrame y el procesamiento de residuos. Justifica tus decisiones con el PNT del centro o, si no existe, con el manual de la OMS enlazado en el apartado 4.
 
-[Escribe aquí tu interpretación técnica.]
+Durante la práctica vimos que el laboratorio no tenía una zona señalizada para recibir muestras ni un sistema claro para registrarlas. Para la simulación usamos una bandeja, una mesa, bata y guantes.
+El derrame de agua se limpió con papel absorbente, siguiendo las indicaciones del profesor. Después, tiramos el papel al recipiente indicado. De esta manera aprendimos a limpiar un derrame, usar protección y mantener el lugar de trabajo limpio y ordenado.
+Como mejora, sería necesario tener una zona señalizada, instrucciones claras y un registro de las muestras.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de la práctica y qué evidencias concretas lo demuestran. Menciona también alguna limitación de la simulación o de la actividad realizada.
 
-[Escribe aquí tu conclusión.]
+En conclusión, se alcanzó el objetivo de la práctica, ya que se identificaron deficiencias en la zona de recepción y en la trazabilidad, se utilizaron los EPI indicados y se realizó la simulación de un derrame siguiendo las instrucciones del profesor. Como evidencias, he adjuntado varias fotografías en el apartado de imágenes.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -240,34 +242,34 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué comprobación de la recepción o del derrame consideraste más crítica para evitar una exposición o contaminación, y cómo verificaste que se realizó correctamente?
 
-   [Respuesta del alumnado]
+   La comprobación más crítica fue utilizar los EPI adecuados y seguir el procedimiento indicado para actuar ante el derrame. Verifiqué que se realizó correctamente porque utilicé batas y guantes, absorbí el agua con papel absorbente y deposité los residuos correctamente.
 
 2. **Interpretación:** Ante el derrame simulado, ¿qué indicios utilizaste para decidir la contención, la descontaminación y el circuito de residuos? Explica por qué descartaste otras opciones.
 
-   [Respuesta del alumnado]
+   Al tratarse de agua estancada utilizada en una simulación, se siguieron las indicaciones del profesor para simular el derrame y recogerlo con papel absorbente. No se aplicaron procedimientos propios de un derrame biológico real, ya que la actividad se realizó con material practicamente limpio.
 
 3. **Conclusiones:** ¿Qué evidencia demuestra con mayor claridad que la muestra fue recibida, procesada o eliminada de forma segura y trazable? Justifica la elección.
 
-   [Respuesta del alumnado]
+   La evidencia más clara son las imágenes que adjunté, donde se ve claramente cada paso realizado
 
 4. **Aprendizaje y transferencia:** ¿Qué hábito concreto aplicarás en las próximas prácticas de microbiología y cómo ayudará a prevenir errores o riesgos reales?
 
-   [Respuesta del alumnado]
+   En las próximas prácticas comprobaré antes de empezar que tengo los EPI necesarios, que la zona de trabajo está limpia y ordenada y que conozco el procedimiento de trabajo y la ruta de residuos. Esto ayudará a prevenir errores.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P01` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 23/09/2026 |
 | UD / RA / CE | `UD1 / RA01 / CE01.a–CE01.i` |
-| Agrupamiento | [Individual / pareja / equipo; especifica] |
-| Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
-| Controles | [Resume o enlaza al apartado 9] |
-| Resultado | [Resume o enlaza al apartado 9.2] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
-| Ruta de residuos aplicada | [Completa]
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Agrupamiento | Individual |
+| Materiales o lotes relevantes | Agua estancada, bandeja, papel absorbente, bata, guantes, papel de filtro |
+| Controles | Se identificaron deficiencias en la zona de recepción. Se comprobó el uso de EPI, la recogida del derrame y la eliminación de residuos |
+| Resultado | Se simuló la recepción  y el derrame, se absorbió el agua con papel absorbente y se depositó correctamente este residuo. |
+| Interpretación | La actuación ante el derrame fue correcta según las instrucciones del profesor, pero se detectaron aspectos que mejorar en la recepción y el registro de muestras. |
+| Incidencias y acciones correctoras | Falta de zona de recepción señalizada. Se propone establecer una zona específica |
+| Ruta de residuos aplicada | El papel absorbente y el papel de filtro se depositó en el cubo genérico de basura
+| Estado de entrega | Entregado |
 
 ---
