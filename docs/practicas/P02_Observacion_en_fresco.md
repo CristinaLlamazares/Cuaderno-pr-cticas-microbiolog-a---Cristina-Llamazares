@@ -142,7 +142,7 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad segura de la muestra | Agua estancada del río de Mérida |
+| Autorización o modalidad segura de la muestra | Agua estancada del río Guadiana (Mérida) |
 | Estado del portaobjetos y cubreobjetos | Ambos se encontraban en condiciones adecuadas para realizar la preparación |
 | Material y equipo efectivamente utilizados | Microscopio óptico, centrífuga, portaobjetos, cubreobjetos, pipeta Pasteur, papel de filtro y la muestra de agua |
 | Aumento(s) utilizado(s) | 4x, 10x, 40x |
@@ -227,13 +227,13 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 Interpreta los hallazgos usando las características observadas, los controles de calidad y las evidencias visuales. Distingue con claridad entre una identificación orientativa, una hipótesis y una conclusión que no puede sostenerse con la información disponible. Explica también si el movimiento observado podría deberse a corrientes, vibración o movimiento browniano.
 
-[Escribe aquí tu interpretación técnica.]
+Para diferenciar la movilidad propia de los microorganismos de las corrientes o los artefactos, sería necesario observar el desplazamiento durante un tiempo y comprobar si el movimiento es continuo y propio de una estructura. Las corrientes del líquido pueden arrastrar partículas, mientras que las vibraciones pueden desplazar distintos elementos de la preparación. El movimiento browniano provoca desplazamientos aleatorios de partículas muy pequeñas. En esta práctica no observé movilidad propia.  
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de preparar, observar y registrar una muestra en fresco. Explica qué evidencias sostienen tu conclusión y qué limitaciones tuvo la práctica o el material utilizado.
 
-[Escribe aquí tu conclusión.]
+En conclusión, alcancé el objetivo de preparar, observar  y registrar una muestra en fresco. Entre las evidencias que sostienen mi conclusión, adjunté varias imágenes. Observé una muestra de agua estancada mediante una preparación directa y otra concentrada por centrifugación de 5 mL de muestra. En ambas se observé detritus, restos orgánicos y burbujas de aire, pero no pude identificar microorganismos concretos ni confirmar su movilidad. Con esta práctica he aprendido a preparar muestras en fresco, manejar el microscopio y utilizar la centrifugación.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
