@@ -128,13 +128,13 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Muestra ambiental autorizada / preparación comercial segura / vídeo microscópico / otra; descríbela]
-- **Código o descripción de la muestra/material docente:** [Completa sin incluir datos personales o clínicos]
+- **Nombre y apellidos:** Cristina Llamazares Santiago
+- **Fecha real de realización:** 24/09/2026
+- **Grupo:** 2º LCB
+- **Pareja de trabajo, si procede:** Individual
+- **Rol o tarea principal que realizaste:** Depositar una gota de agua estancada sobre un portaobjetos con ayuda de una pipeta Pasteur, colocar el cubreobjetos y observar la muestra al microscopio.
+- **Modalidad realmente realizada:** Muestra ambiental autorizada
+- **Código o descripción de la muestra/material docente:** Sin código
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
