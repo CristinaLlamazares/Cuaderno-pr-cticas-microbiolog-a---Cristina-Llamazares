@@ -142,17 +142,17 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad segura de la muestra | [Completa] |
-| Estado del portaobjetos y cubreobjetos | [Completa] |
-| Material y equipo efectivamente utilizados | [Completa] |
-| Aumento(s) utilizado(s) | [Completa] |
-| Medidas de seguridad aplicadas | [Completa] |
+| Autorización o modalidad segura de la muestra | Agua estancada del río de Mérida |
+| Estado del portaobjetos y cubreobjetos | Ambos se encontraban en condiciones adecuadas para realizar la preparación |
+| Material y equipo efectivamente utilizados | Microscopio óptico, portaobjetos, cubreobjetos, pipeta Pasteur, papel de filtro y la muestra de agua |
+| Aumento(s) utilizado(s) | 4x, 10x, 40x |
+| Medidas de seguridad aplicadas | Uso de guantes y batas, manipulación cuidadosa del material de vidrio, mantenimiento de la zona de trabajo limpia y eliminación del material de vidrio en su contenedor amarillo |
 
 ### 8.2 Hipótesis u observación inicial
 
 Antes de observar, indica qué esperas encontrar o qué características crees que podrían ser relevantes para la muestra. Si trabajaste con material docente o un vídeo, formula la hipótesis a partir de la información disponible.
 
-[Escribe aquí tu hipótesis u observación inicial.]
+Antes de observar la muestra al microscopio, esperaba encontrar diferentes partículas y restos orgánicos procedentes del agua estancada, así como posibles microorganismos.
 
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -160,27 +160,24 @@ Antes de observar, indica qué esperas encontrar o qué características crees q
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Preparación limpia y sin burbujas que impidan la lectura | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Enfoque e iluminación adecuados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Campo observado de forma sistemática | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Movimiento diferenciado de corrientes o artefactos | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Preparación limpia y sin burbujas que impidan la lectura | Se observaron restos orgánicos y burbujas de aire | Sí | La preparación permitió observar algunos elementos, aunque las burbujas dificultaron la lectura de algunas zonas |
+| Enfoque e iluminación adecuados | Se obtuvo una imagen microscópica con una buena iluminación y enfoque | Sí | En la imagen 2 y 4 se puede apreciar perfectamente la iluminación y el enfoque |
+| Campo observado de forma sistemática | Se realizó una completa observación del campo | Sí | Primero enfoqué la muestra con el objetivo de menor aumento, observé una zona del campo visual. Después, moví poco a poco la preparación con los mandos de la platina para observar otras zonas. Continué de forma ordenada, intentando no dejar grandes áreas sin observar |
+| Movimiento diferenciado de corrientes o artefactos | [Completa] | No | [Completa] |
 
 ### 9.2 Registro de hallazgos
 
 | Hallazgo | Preparación utilizada | Morfología, tamaño relativo y disposición | ¿Se observó movimiento? | Interpretación inicial |
 |---|---|---|---|---|
-| [Hallazgo 1] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 2] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 3] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 4] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 5] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 6] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
+| Detritus | Sin concentración | Tamaño variable, agrupado en algunas zonas | No | Restos de materia presente en la muestra |
+| Restos orgánicos | Sin concentración | Formas y tamaños diferentes | No | Posibles restos orgánicos procedentes del agua |
+| Burbujas de aire | Sin concentración | Estructuras redondeadas, con bordes definidos y aspecto transparente | No | Artefactos de la preparación que pueden dificultar la observación |
 
 ### 9.3 Resultado principal
 
 Resume los hallazgos más relevantes y especifica qué resultado procede de observación real, preparación segura, imagen docente o vídeo.
 
-[Escribe aquí el resultado principal.]
+Una vez observada la muestra al microscopio, no pude ver ningún tipo de microorganismos. Únicamente pude apreciar detritus y burbujas de aire.
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -263,17 +260,17 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P02` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 24/09/2026 |
 | UD / RA / CE | `UD2 / RA02 / CE02.a, CE02.c, CE02.f, CE02.g` |
-| Agrupamiento | [Individual / pareja; especifica] |
-| Modalidad y origen de la muestra o evidencia | [Completa] |
-| Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.3] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
-| Ruta de residuos aplicada | [Completa] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Agrupamiento | Individual|
+| Modalidad y origen de la muestra o evidencia | Agua estancada del río Guadiana (Mérida) |
+| Materiales o lotes relevantes | Microscopio óptico, portaobjetos, cubreobjetos, pipeta Pasteur, recipiente de la muestra |
+| Controles | Preparación y observación microscópica |
+| Resultado | Se observaron detritus, restos orgánicos y burbujas de aire |
+| Interpretación | Los elementos observados se interpretan como restos de la muestra y artefactos. No se identificaron microorganismos |
+| Incidencias y acciones correctoras | No se detectaron incidencias |
+| Ruta de residuos aplicada | Portaobjetos y cubreobjetos: contenedor amarillo |
+| Estado de entrega | Entregado |
 
 ---
 
