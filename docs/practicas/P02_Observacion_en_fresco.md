@@ -144,7 +144,7 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 |---|---|
 | Autorización o modalidad segura de la muestra | Agua estancada del río de Mérida |
 | Estado del portaobjetos y cubreobjetos | Ambos se encontraban en condiciones adecuadas para realizar la preparación |
-| Material y equipo efectivamente utilizados | Microscopio óptico, portaobjetos, cubreobjetos, pipeta Pasteur, papel de filtro y la muestra de agua |
+| Material y equipo efectivamente utilizados | Microscopio óptico, centrífuga, portaobjetos, cubreobjetos, pipeta Pasteur, papel de filtro y la muestra de agua |
 | Aumento(s) utilizado(s) | 4x, 10x, 40x |
 | Medidas de seguridad aplicadas | Uso de guantes y batas, manipulación cuidadosa del material de vidrio, mantenimiento de la zona de trabajo limpia y eliminación del material de vidrio en su contenedor amarillo |
 
@@ -163,7 +163,7 @@ Antes de observar la muestra al microscopio, esperaba encontrar diferentes part�
 | Preparación limpia y sin burbujas que impidan la lectura | Se observaron restos orgánicos y burbujas de aire | Sí | La preparación permitió observar algunos elementos, aunque las burbujas dificultaron la lectura de algunas zonas |
 | Enfoque e iluminación adecuados | Se obtuvo una imagen microscópica con una buena iluminación y enfoque | Sí | En la imagen 2 y 4 se puede apreciar perfectamente la iluminación y el enfoque |
 | Campo observado de forma sistemática | Se realizó una completa observación del campo | Sí | Primero enfoqué la muestra con el objetivo de menor aumento, observé una zona del campo visual. Después, moví poco a poco la preparación con los mandos de la platina para observar otras zonas. Continué de forma ordenada, intentando no dejar grandes áreas sin observar |
-| Movimiento diferenciado de corrientes o artefactos | [Completa] | No | [Completa] |
+| Movimiento diferenciado de corrientes o artefactos | No hay movimiento | No | No se puede justificar |
 
 ### 9.2 Registro de hallazgos
 
@@ -241,19 +241,19 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué decisión durante la preparación influyó más en la calidad de la observación microscópica y cómo comprobaste su efecto?
 
-   [Respuesta del alumnado]
+   Una de las decisiones más importantes fue colocar el cubreobjetos con cuidado para evitar la formación de burbujas. También fue importante centrifugar correctamente para coger una gota del sedimento. La calidad de la preparación influye directamente en la observación microscópica.
 
 2. **Interpretación:** ¿Qué indicios utilizaste para decidir si el desplazamiento observado era movilidad propia, una corriente o un artefacto? ¿Qué información adicional necesitarías para afirmarlo con mayor seguridad?
 
-   [Respuesta del alumnado]
+   Para diferenciar la movilidad propia de los microorganismos, es necesario observar durante un tiempo para comprobar si el movimiento es continuo y propio de una estructura. El movimiento browniano provoca desplazamientos aleatorios de partículas muy pequeñas. En esta práctica no observé movilidad propia.
 
 3. **Conclusiones:** ¿Cuál de tus evidencias —registro, fotografía o esquema— respalda mejor la conclusión principal? Explica también una limitación de esa evidencia.
 
-   [Respuesta del alumnado]
+   La fotografía que tomé del microscopio es la evidencia visual que mejor complementa el registro de los resultados. Esta observación se realizó tanto en la preparación directa como en la preparación concentrada mediante centrifugación. Sin embargo, no permite identificar con segurida todas laas estructuras ni confirmar que sean microorganismos.
 
 4. **Aprendizaje y transferencia:** ¿Qué mejorarías en una próxima observación en fresco y cómo aplicarías ese aprendizaje a una tinción o a otra técnica microscópica?
 
-   [Respuesta del alumnado]
+   En la próxima observación en fresco intentaría colocar el cubreobjetos más lentamente para evitar la formación de burbujas. También prestaría más atención a los posibles movimientos. Este aprendizaje me serviría para realizar tinciones, ya que una preparación limpia, bien enfocada y correctamente identificada facilita la observación de estructuras.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -264,7 +264,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | UD / RA / CE | `UD2 / RA02 / CE02.a, CE02.c, CE02.f, CE02.g` |
 | Agrupamiento | Individual|
 | Modalidad y origen de la muestra o evidencia | Agua estancada del río Guadiana (Mérida) |
-| Materiales o lotes relevantes | Microscopio óptico, portaobjetos, cubreobjetos, pipeta Pasteur, recipiente de la muestra |
+| Materiales o lotes relevantes | Microscopio óptico, centrífuga, portaobjetos, cubreobjetos, pipeta Pasteur, recipiente de la muestra |
 | Controles | Preparación y observación microscópica |
 | Resultado | Se observaron detritus, restos orgánicos y burbujas de aire |
 | Interpretación | Los elementos observados se interpretan como restos de la muestra y artefactos. No se identificaron microorganismos |
