@@ -103,11 +103,11 @@ El documento adjunto propone una preparación directa y otra tras concentración
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
+- **Nombre y apellidos:** Cristina Llamazares Santiago
+- **Fecha real de realización:** 14/10/2026
+- **Grupo:** 2º LCB
+- **Pareja de trabajo, si procede:** Pareja: Natalia Carrasco Jiméneze
+- **Rol o tarea principal que realizaste:** Deposité una gota de agua estancada sobre el portaobjetos, seguidamente le añadí una gota de azul de metileno. Después coloqué el cubreobjetos y observé la muestra al microscopio
 - **Modalidad realmente realizada:** [Muestra autorizada / preparación docente teñida / imagen o vídeo / otra; descríbela]
 - **Código o descripción de la muestra/material docente:** [Completa sin incluir datos personales o clínicos]
 - **Reactivo utilizado:** [Nombre, concentración indicada por el centro, lote o referencia si procede]
