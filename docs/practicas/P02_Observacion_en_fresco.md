@@ -200,7 +200,8 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 ### Imagen 3 — Centrifugación de la muestra
 
-- **Archivo previsto:** `../assets/P02/03_centrifugacion.jpg`
+![Centrifugación de la muestra](../assets/P02/03_centrifugacion.jpg)
+(../assets/P02/03_centrifugacion.jpg`
 - **Texto alternativo:** Tubos cerrados y equilibrados en la centrífuga durante la preparación concentrada autorizada.
 - **Pie de foto:** [Indica el equipo y los parámetros validados por el centro; fotografía solo si está permitido y sin datos identificativos.]
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
