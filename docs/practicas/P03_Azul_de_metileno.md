@@ -104,13 +104,13 @@ El documento adjunto propone una preparación directa y otra tras concentración
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
 - **Nombre y apellidos:** Cristina Llamazares Santiago
-- **Fecha real de realización:** 14/10/2026
+- **Fecha real de realización:** 01/10/2026
 - **Grupo:** 2º LCB
 - **Pareja de trabajo, si procede:** Pareja: Natalia Carrasco Jiméneze
-- **Rol o tarea principal que realizaste:** Deposité una gota de agua estancada sobre el portaobjetos, seguidamente le añadí una gota de azul de metileno. Después coloqué el cubreobjetos y observé la muestra al microscopio
-- **Modalidad realmente realizada:** [Muestra autorizada / preparación docente teñida / imagen o vídeo / otra; descríbela]
-- **Código o descripción de la muestra/material docente:** [Completa sin incluir datos personales o clínicos]
-- **Reactivo utilizado:** [Nombre, concentración indicada por el centro, lote o referencia si procede]
+- **Rol o tarea principal que realizaste:** Deposité una gota de agua estancada sobre el portaobjetos, añadí una gota de azul de metileno con una Pipeta Pasteur, coloqué el cubreobjetos y observé la muestra al microscopio
+- **Modalidad realmente realizada:** Preparación docente teñida
+- **Código o descripción de la muestra/material docente:** Agua estancada del río Guadiana (Mérida), utilizada también en prácticas anteriores
+- **Reactivo utilizado:** Azul de metileno
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -118,17 +118,17 @@ El documento adjunto propone una preparación directa y otra tras concentración
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad segura de la muestra | [Completa] |
-| FDS y estado del reactivo | [Completa] |
-| EPI y medidas de seguridad aplicadas | [Completa] |
-| Estado del portaobjetos y cubreobjetos | [Completa] |
-| Aumento(s) utilizado(s) | [Completa] |
+| Autorización o modalidad segura de la muestra | Muestra ambiental de agua estancada del río Guadiana, utilizada en la práctica docente |
+| FDS y estado del reactivo | No estaba caducado |
+| EPI y medidas de seguridad aplicadas | Bata y guantes. Mesa de trabajo limpia y ordenada. |
+| Estado del portaobjetos y cubreobjetos | En perfectas condiciones |
+| Aumento(s) utilizado(s) | 4x, 10x, 40x |
 
 ### 8.2 Hipótesis de comparación
 
 Antes de observar, indica qué diferencia esperas encontrar entre la preparación en fresco de P02 y la preparación teñida con azul de metileno. Si trabajaste con una imagen o preparación docente, formula la hipótesis a partir de la información disponible.
 
-[Escribe aquí tu hipótesis.]
+Antes de observar la muestra, esperaba que el azul de metileno aumentara el contraste  y permitiera distinguir mejor algunas estructuras que en la preparación en fresco resultaban más difíciles de observar. También esperaba apreciar diferencias en la coloración y en los detalles visibles de la muestra.
 
 ## 10. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -136,35 +136,34 @@ Antes de observar, indica qué diferencia esperas encontrar entre la preparació
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Reactivo correctamente identificado y apto para uso | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Preparación sin burbujas o artefactos limitantes | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Contraste suficiente para la observación | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Enfoque e iluminación adecuados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Gestión correcta de residuos y limpieza | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Reactivo correctamente identificado y apto para uso | Azul de metileno | Sí | [Completa] |
+| Preparación sin burbujas o artefactos limitantes | En esta preparación se observaron pocas burbujas | Parcialmente | [Completa] |
+| Contraste suficiente para la observación | Se distinguen estructuras y partículas de color azul-violeta | Sí | En la imagen 2 se aprecia contraste |
+| Enfoque e iluminación adecuados | Se distingue el organismo principal en el campo visual | Sí | La imagen permite apreciar su forma general y algunas estructuras |
+| Gestión correcta de residuos y limpieza | El portaobjetos y el cubreobjetos se depositaron en el contenedor amarillo residuos corto-punzantes | Sí | Se depositó el material utilizado en el contenedor indicado |
 
 ### 10.2 Registro de hallazgos
 
 | Campo o elemento observado | Aspecto tras la tinción | ¿Qué detalle permite apreciar? | Limitación o duda |
 |---|---|---|---|
-| [Observación 1] | [Completa] | [Completa] | [Completa] |
-| [Observación 2] | [Completa] | [Completa] | [Completa] |
-| [Observación 3] | [Completa] | [Completa] | [Completa] |
+| Bosmina (pulga de agua) | Organismo de mayor tamaño, con aspecto ovalado y estructuras internas visibles | Permite distinguir su forma general y algunas de sus estructuras | Con ayuda del profesor logré identificarla |
+| Partículas y agrupaciones de material | Material teñido de azul-violeta, distribuido por el campo visual | Permite observar la presencia y distribución de partículas en la muestra | No se puede determinar la naturaleza de todas las partículas |
 
 ## 11. Comparación con la observación en fresco [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 | Aspecto comparado | P02 — Observación de agua estancada mediante preparación en fresco | P03 — Tinción vital con azul de metileno | Interpretación de la diferencia |
 |---|---|---|---|
-| Contraste | [Completa] | [Completa] | [Completa] |
-| Morfología o detalles visibles | [Completa] | [Completa] | [Completa] |
-| Movimiento observado | [Completa] | [Completa] | [Completa] |
-| Facilidad de observación | [Completa] | [Completa] | [Completa] |
-| Limitaciones | [Completa] | [Completa] | [Completa] |
+| Contraste | Se observaron detritus, restos orgánicos y burbujas de aire | Se distinguen partículas teñidas de azul-violeta y un organismo de mayor tamaño | El colorante aporta contraste y facilita la diferenciación visual de algunos elementos |
+| Morfología o detalles visibles | Se observaron elementos de diferentes tamaños y formas | Se aprecia la forma general de Bosmina y algunas estructuras | La tinción puede ayudar a distinguir determinados detalles, aunque no permite identificar todas las estructuras |
+| Movimiento observado | No observé movimiento | La Bosmina no se movía durante la observación | No es posible la comparación entre ambas observaciones |
+| Facilidad de observación | Fue mas complicado observar los restos y partículas | La coloración facilitó la observación | El aumento de contraste facilita la observación de ciertas estructuras |
+| Limitaciones | La ausencia de tinción dificulta distinguir algunos detalles | La coloración y las agrupaciones de material pueden dificultar la interpretación de determinadas zonas | Ambas preparaciones presentan limitaciones |
 
 ### Resultado principal
 
 Resume qué aportó la tinción a la observación y qué información debe interpretarse con cautela. Indica expresamente si el resultado procede de una ejecución propia, una preparación docente o material audiovisual.
 
-[Escribe aquí el resultado principal.]
+La tinción con azul de metileno permitió observar con mayor contraste una muestra de agua estancada del río Guadiana. En la preparación se distinguió un organismo identificado por el profesor como Bosmina (pulga de agua), además de numerosas partículas y agrupaciones teñidas de azul-violeta. En comparación con la preparación en fresco, la coloración facilitó la diferenciación visual de algunos elementos. Sin embargo, no se puede determinar la naturaleza de todas las partículas ni confirmar la movilidad del organismo a partir de la fotografía. Los resultados proceden de una preparación realizada por mí y observada al microscopio óptico.
 
 ## 12. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
