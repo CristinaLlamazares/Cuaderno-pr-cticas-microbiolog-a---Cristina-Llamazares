@@ -109,10 +109,10 @@ El protocolo docente adjunto (Práctica 3) propone 125 mL como volumen aproximad
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Equipo de trabajo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
+- **Nombre y apellidos:** Cristina Llamazares Santiago
+- **Fecha real de realización:** 14/10/2026
+- **Grupo:** 2ºLCB
+- **Equipo de trabajo, si procede:** Pareja: Natalia Carrasco Jiménez
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
 - **Modalidad realmente realizada:** [Ejecución real supervisada en el laboratorio de Microbiología; describe cualquier fase que no hayas realizado personalmente]
 - **Nombre o código del medio preparado:** [Completa]
