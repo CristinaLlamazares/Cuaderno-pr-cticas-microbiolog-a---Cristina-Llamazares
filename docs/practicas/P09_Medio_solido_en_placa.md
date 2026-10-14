@@ -1,4 +1,3 @@
-
 ---
 title: "P09 — Elaboración de medio de cultivo sólido en placa"
 practice_id: P09
