@@ -113,9 +113,9 @@ El protocolo docente adjunto (Práctica 3) propone 125 mL como volumen aproximad
 - **Fecha real de realización:** 14/10/2026
 - **Grupo:** 2ºLCB
 - **Equipo de trabajo, si procede:** Pareja: Natalia Carrasco Jiménez
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Ejecución real supervisada en el laboratorio de Microbiología; describe cualquier fase que no hayas realizado personalmente]
-- **Nombre o código del medio preparado:** [Completa]
+- **Rol o tarea principal que realizaste:** Pesé 2,88 g de agar nutritivo en la balanza. Saqué el recipiente del autoclave. Junto al mechero Bunsen, realicé el flameado del borde del recipiente antes de verter el medio de cultivo en cada placa de Petri. Una vez finalizado el trasvase, volví a flamear el bode del recipiente.
+- **Modalidad realmente realizada:** Ejecución real supervisada en el laboratorio de Microbiología. Mi compañera midió el agua en la probeta y la pasó al vaso de precipitados para calentarla en el microondas, añadió el agar nutritivo al vaso con el agua ya caliente y removió con una varilla. Calentó más el agua hasta ebullición y trasvasó la mezcla al bote. Después metió el bote en el autoclave
+- **Nombre o código del medio preparado:** Agar nutritivo
 - **Volumen previsto:** `125 mL` de Agar nutritivo; el protocolo docente estima unas seis placas. Registra el volumen y número realmente obtenidos, si procede.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -126,13 +126,13 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Vidrio de reloj, espátula, probeta, varilla y material de dispensación realmente utilizado] |
-| Equipos | [Balanza, placa calefactora/agitación, autoclave y zona autorizada realmente utilizados; «No aplica» si procede] |
-| Reactivos/materiales | [Agar nutritivo en polvo, agua destilada previamente calentada, recipiente autoclavable, seis placas estériles, etiquetas y EPI realmente utilizados] |
+| Instrumental | Vidrio de reloj, espátula, probeta, varilla, vaso de precipitados, botella con tapón azul y material de dispensación realmente utilizado |
+| Equipos | Balanza, microondas, autoclave, mechero Bunsen |
+| Reactivos/materiales | Agar nutritivo en polvo, agua destilada previamente calentada, recipiente autoclavable, seis placas estériles, etiquetas y EPI realmente utilizados (bata y guantes) |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Papel de filtro y sobrante del medio | Urbanos o asimilables a los urbanos |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -142,9 +142,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Transcribe la dosificación del fabricante (g/L) y calcula: g/L × 0,125 L = g de polvo. Anota fuente, operación y masa; registra por separado el agua indicada, sin inventar la dosis.] |
-| Configuración de equipos (si procede) | [Identifica balanza, calentamiento/agitación y autoclave; anota solo parámetros reales y el ciclo autorizado. No uses valores del protocolo adjunto sin confirmación local.] |
-| Características del producto o resultado final | [Describe volumen preparado (objetivo: 125 mL), placas obtenidas (referencia: unas seis), aspecto, gelificación, identificación, origen de datos y controles pendientes.] |
+| Cálculos (si procede) | Dosificación del fabricante (g/L): 23g.  CÁLCULOS: 23g/L × 0,125 L = 2,875 g de polvo. Medición del agua: 125ml |
+| Configuración de equipos (si procede) | Balanza: Pocket Scale. Calentamiento en el microondas: 4 minutos. Autoclave: 1 hora, 121º. Agitación con varilla: 2 minutos |
+| Características del producto o resultado final | Volumen preparado: 125 mL. Placas obtenidas: 4 de 6 que tendríamos que haber rellenado. Aspecto: color amarillento. Gelificación: correcta, sin grumos. Identificación: Nombre de la pareja, fecha y medio de cultivo. Origen de datos: propios de la práctica y de la etiqueta del fabricante. Controles pendientes: Ninguno |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
