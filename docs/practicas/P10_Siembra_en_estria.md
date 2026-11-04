@@ -104,11 +104,11 @@ La descripción macroscópica debe limitarse a lo realmente observable: presenci
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha de ejecución:** [dd/mm/aaaa]
+- **Nombre y apellidos:** Cristina Llamazares Santiago
+- **Fecha de ejecución:** 04/10/2026
 - **Fecha de lectura, si procede:** [dd/mm/aaaa / pendiente / no aplicaba]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
+- **Grupo:** 2º LCB
+- **Pareja de trabajo, si procede:** Pareja: Natalia Carrasco Jiménez
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
 - **Modalidad realmente realizada:** [Ejecución real supervisada; indica si fue individual o por parejas]
 - **Código autorizado del cultivo de trabajo de P08 y de la placa:** [Completa sin incluir datos sensibles]
