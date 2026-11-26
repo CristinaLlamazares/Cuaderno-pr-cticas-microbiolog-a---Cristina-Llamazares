@@ -250,7 +250,6 @@ Incluye fotografías propias de la práctica real solo si su captura está autor
 
 **Pie de foto técnico:** [Describe la trayectoria realizada sobre la superficie.]<br>
 **Autoría y procedencia:** [Propia / fotografía docente autorizada / material de referencia]
-<img width="1080" height="1791" alt="image" src="https://github.com/user-attachments/assets/7ffdecb3-8162-4a57-a62a-279c4085eb63" />
 
 
 ### Imagen 3 — Siembra en picadura en tubo recto (tubo B)
